@@ -245,7 +245,7 @@ const stars = createStars(width, height, 30);
 const moon = {
   color: "#fea",
   x: (height / 3)+950,
-  y: (width / 3)-350,
+  y: (width / 3)-50,
   r: 40
 };
 
