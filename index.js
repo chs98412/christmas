@@ -244,8 +244,8 @@ const maxStarOpacity = 0.7;
 const stars = createStars(width, height, 30);
 const moon = {
   color: "#fea",
-  x: (height / 3)+950,
-  y: (width / 3),
+  x: (height / 3)+750,
+  y: (width / 3)-100,
   r: 40
 };
 
