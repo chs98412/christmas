@@ -82,7 +82,7 @@ function moveSanta(){
 //santa
 var santas=[];
 var dx=200;
-var dy=-350;
+var dy=-320;
 santas.push([1,'red',700+dx,900+dy,70, 0, Math.PI * 2])
 santas.push([1,'hsl(33.87,40%,80%)',700+dx,800+dy,50, 0, Math.PI * 2])
 santas.push([1,'black',700+dx,775+dy,50, Math.PI * 0.35, Math.PI * 0.65])
